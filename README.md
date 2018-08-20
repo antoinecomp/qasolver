@@ -8,6 +8,7 @@ Updating the QA system for [Stanford Question Answering Datatset 2.0](https://ra
 
  - The last file treats this problem as a supervised learning problem where I am fitting multinomial logistic regression, random forest and xgboost and create twenty features - (two features represents the cosine distance & euclidean for one sentence. I am limiting each paragraphs to ten sentences). The target variable is the sentence ID having the correct answer. So I have ten labels. This is currently giving an accuracy of 29.0%, 45.0% & 45.0% respectively.
 
+## To-Do
 Future Work: Use RNNs to get the exact answer
 
 ## Installation
@@ -19,6 +20,14 @@ You also need to clone [InferSent repository from FaceBook reasearch lab](https:
 Finally you need to import the `requirements.txt` file with `pip install -r requirements.txt` you can use a virtual environment, it is my personal recommendation.
 
 Then, you're all set and can launch `jupyter notebook` from the repository. Before hurrying to the unsupervised and supervised methods make sure that you have created your embeddings first !
+
+## Documentation 
+
+If you're a bookworm that needs to read how all of this is done :
+
+ 1. Start with [Stanford Question Answering Datatset 2.0 paper](https://arxiv.org/pdf/1806.03822.pdf) about the dataset and the contest they set up.
+ 2. Follow with [Alvina Swalin's article on towardsdatascience](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507), where she explains her attempt and her features.
+ 3. Read my [ongoing Master dissertation on this project](https://www.overleaf.com/read/xgkqdjfswtgz). I tried to formalize the project and the features with solid mathematical definitions of her attempts and their limits in front of this new dataset.
 
 ## Support
 
