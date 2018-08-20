@@ -13,7 +13,7 @@
       alt="Contributions welcome" />
   </a>
   <a href="https://github.com/antoinecomp/qasolver/issues">
-    <img src="https://img.shields.io/github/issues/anfederico/Clairvoyant.svg"
+    <img src="https://img.shields.io/github/issues/antoinecomp/drqa.svg"
       alt="Issues" />
   </a>
 </div>
