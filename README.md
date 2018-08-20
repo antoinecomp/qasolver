@@ -1,8 +1,3 @@
-<p align="center">qasolver</p>
-
-[![GitHub Issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)](https://github.com/anfederico/Clairvoyant/issues)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
-
 <h1 align="center">qasolver</h1> 
 <div align="center">
   <strong>QA system for text understanding</strong>
