@@ -5,8 +5,8 @@
 
 <div align="center">
   <!-- Stability -->
-  <a href="https://img.shields.io/badge/python-v3.6+-blue.svg">
-    <img src="https://img.shields.io/badge/python-v3.6+-blue.svg"
+  <a href="https://img.shields.io/badge/python-3.5.2-yellow.svg">
+    <img src="https://img.shields.io/badge/python-3.5.2-yellow.svg"
       alt="Python 3.5.2" />
   </a>  <a href="https://img.shields.io/badge/contributions-welcome-orange.svg">
     <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"
