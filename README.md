@@ -1,6 +1,6 @@
 # qasolver
 
-Updating the QA system for [Stanford Question Answering Datatset 2.0](https://rajpurkar.github.io/SQuAD-explorer/) initially made by Alvina Swalin for the first version of SQUAD on GitHub. She details her thoughts [in her article on towardsdatascience](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)
+Updating the QA system for [Stanford Question Answering Datatset 2.0](https://rajpurkar.github.io/SQuAD-explorer/) initially made by Alvina Swalin for the first version of SQUAD. You can find [her attempt on GitHub](https://github.com/aswalin/SQuAD). She details her thoughts [in her article on towardsdatascience](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)
 
  - The first file create_emb.ipynb takes care of creating a dictionary of sentence embedding for all the sentences and questions in the wikipedia articles of training dataset
 
