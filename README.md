@@ -1,9 +1,31 @@
 <p align="center">qasolver</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 [![GitHub Issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)](https://github.com/anfederico/Clairvoyant/issues)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+
+<h1 align="center">qasolver</h1> 
+<div align="center">
+  <strong>QA system for text understanding</strong>
+</div>
+
+<div align="center">
+  <!-- Stability -->
+  ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
+  ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+  [![GitHub Issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)](https://github.com/anfederico/Clairvoyant/issues)
+  <a href="https://nodejs.org/api/documentation.html#documentation_stability_index">
+    <img src="https://img.shields.io/badge/stability-experimental-orange.svg?style=flat-square"
+      alt="API stability" />
+  </a>
+</div>
+<div align="center">
+  <h3>
+	Come discuss with us 
+    <a href="https://www.reddit.com/r/Moodbot/">
+      @Reddit
+    </a>
+  </h3>
+</div>
 
 
 Updating the QA system for [Stanford Question Answering Datatset 2.0](https://rajpurkar.github.io/SQuAD-explorer/) initially made by Alvina Swalin for the first version of SQUAD. You can find [her attempt on GitHub](https://github.com/aswalin/SQuAD). She details her thoughts [in her article on towardsdatascience](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)
@@ -35,6 +57,7 @@ If you're a bookworm that needs to read how all of this is done :
  2. Follow with [Alvina Swalin's article on towardsdatascience](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507), where she explains her attempt and her features.
  3. Read my [ongoing Master dissertation on this project](https://www.overleaf.com/read/xgkqdjfswtgz). I tried to formalize the project and the features with solid mathematical definitions of her attempts and their limits in front of this new dataset.
 
+You are welcome to discuss them [on Reddit](https://www.reddit.com/r/Moodbot/), especially the last one ;)
 ## Support
 
-Feel free to launch issue above if you're stuck. I will try to help as much as I can
+Feel free to launch an issue above if you're stuck. I will try to help as much as I can
