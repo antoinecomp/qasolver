@@ -5,12 +5,16 @@
 
 <div align="center">
   <!-- Stability -->
-  ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-  ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
-  [![GitHub Issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)](https://github.com/anfederico/Clairvoyant/issues)
-  <a href="https://nodejs.org/api/documentation.html#documentation_stability_index">
-    <img src="https://img.shields.io/badge/stability-experimental-orange.svg?style=flat-square"
-      alt="API stability" />
+  <a href="https://img.shields.io/badge/python-v3.6+-blue.svg">
+    <img src="https://img.shields.io/badge/python-v3.6+-blue.svg"
+      alt="Python 3.5.2" />
+  </a>  <a href="https://img.shields.io/badge/contributions-welcome-orange.svg">
+    <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"
+      alt="Contributions welcome" />
+  </a>
+  <a href="https://github.com/antoinecomp/qasolver/issues">
+    <img src="https://img.shields.io/github/issues/anfederico/Clairvoyant.svg"
+      alt="Issues" />
   </a>
 </div>
 <div align="center">
