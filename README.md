@@ -9,3 +9,17 @@ Updating the QA system for [Stanford Question Answering Datatset 2.0](https://ra
  - The last file treats this problem as a supervised learning problem where I am fitting multinomial logistic regression, random forest and xgboost and create twenty features - (two features represents the cosine distance & euclidean for one sentence. I am limiting each paragraphs to ten sentences). The target variable is the sentence ID having the correct answer. So I have ten labels. This is currently giving an accuracy of 29.0%, 45.0% & 45.0% respectively.
 
 Future Work: Use RNNs to get the exact answer
+
+## Installation
+
+You need to download the SQUAD datasets that contains the train and dev data. You can find them on [Stanford Question Answering Datatset 2.0](https://rajpurkar.github.io/SQuAD-explorer/). Make sure to place them in the data folder !
+
+You also need to clone [InferSent repository from FaceBook reasearch lab](https://github.com/facebookresearch/InferSent) and know [how to use their sentence encoder](https://github.com/facebookresearch/InferSent#use-our-sentence-encoder)
+
+Finally you need to import the `requirements.txt` file with `pip install -r requirements.txt` you can use a virtual environment, it is my personal recommendation.
+
+Then, you're all set and can launch `jupyter notebook` from the repository. Before hurrying to the unsupervised and supervised methods make sure that you have created your embeddings first !
+
+## Support
+
+Feel free to launch issue above if you're stuck. I will try to help as much as I can
